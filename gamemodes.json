@@ -31,7 +31,7 @@
   },
   {
     "siteId": 409,
-    "folderId": "UnbeatenATs",
+    "folderId": "Unbeaten-ATs",
     "tags": [ "solo", "online", "challenge" ]
   },
   {
@@ -41,22 +41,22 @@
   },
   {
     "siteId": 124,
-    "folderId": "ManiaExchangeRandomMapPicker",
+    "folderId": "MXRandom",
     "tags": [ "solo", "offline", "utility" ]
   },
   {
     "siteId": 656,
-    "folderId": "RandomAlteredCampaignChallenge",
+    "folderId": "RandomAlteredCampaign",
     "tags": [ "solo", "offline", "campaign" ]
   },
   {
     "siteId": 483,
-    "folderId": "AlteredNadeoRandomMapPicker",
+    "folderId": "AlteredNadeo_RandomMapPicker",
     "tags": [ "solo", "offline", "campaign" ]
   },
   {
     "siteId": 771,
-    "folderId": "RandomMapPaceChallenge",
+    "folderId": "RandomMapPace",
     "tags": [ "solo", "offline", "challenge" ]
   }
 ]
