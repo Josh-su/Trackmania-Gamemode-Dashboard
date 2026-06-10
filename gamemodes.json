@@ -1,62 +1,14 @@
 [
-  {
-    "siteId": 748,
-    "folderId": "ClipCampaignChallenge",
-    "tags": [ "solo", "offline", "campaign" ]
-  },
-  {
-    "siteId": 870,
-    "folderId": "Trackle",
-    "tags": [ "solo", "online", "challenge" ]
-  },
-  {
-    "siteId": 712,
-    "folderId": "OneLifeChallenge",
-    "tags": [ "solo", "offline", "hardcore" ]
-  },
-  {
-    "siteId": 312,
-    "folderId": "BetterRoomManager",
-    "tags": [ "multiplayer", "online", "utility" ]
-  },
-  {
-    "siteId": 143,
-    "folderId": "BetterHotseat",
-    "tags": [ "local", "offline", "multiplayer" ]
-  },
-  {
-    "siteId": 271,
-    "folderId": "TrackmaniaBingo",
-    "tags": [ "multiplayer", "online", "fun" ]
-  },
-  {
-    "siteId": 409,
-    "folderId": "Unbeaten-ATs",
-    "tags": [ "solo", "online", "challenge" ]
-  },
-  {
-    "siteId": 793,
-    "folderId": "RandomMapOfTheWeek",
-    "tags": [ "solo", "online", "campaign" ]
-  },
-  {
-    "siteId": 124,
-    "folderId": "MXRandom",
-    "tags": [ "solo", "offline", "utility" ]
-  },
-  {
-    "siteId": 656,
-    "folderId": "RandomAlteredCampaign",
-    "tags": [ "solo", "offline", "campaign" ]
-  },
-  {
-    "siteId": 483,
-    "folderId": "AlteredNadeo_RandomMapPicker",
-    "tags": [ "solo", "offline", "campaign" ]
-  },
-  {
-    "siteId": 771,
-    "folderId": "RandomMapPace",
-    "tags": [ "solo", "offline", "challenge" ]
-  }
+  { "siteId": 748, "tags": [ "solo", "offline", "campaign" ] },
+  { "siteId": 870, "tags": [ "solo", "online", "challenge" ] },
+  { "siteId": 712, "tags": [ "solo", "offline", "hardcore" ] },
+  { "siteId": 312, "tags": [ "multiplayer", "online", "utility" ] },
+  { "siteId": 143, "tags": [ "local", "offline", "multiplayer" ] },
+  { "siteId": 271, "tags": [ "multiplayer", "online", "fun" ] },
+  { "siteId": 409, "tags": [ "solo", "online", "challenge" ] },
+  { "siteId": 793, "tags": [ "solo", "online", "campaign" ] },
+  { "siteId": 124, "tags": [ "solo", "offline", "utility" ] },
+  { "siteId": 656, "tags": [ "solo", "offline", "campaign" ] },
+  { "siteId": 483, "tags": [ "solo", "offline", "campaign" ] },
+  { "siteId": 771, "tags": [ "solo", "offline", "challenge" ] }
 ]
